@@ -5,6 +5,11 @@
 
 # ハードウェア
 携帯デバイスの外装
-![Image](https://github.com/user-attachments/assets/07b743d7-4121-45de-ba78-4709ceaa47eb)
+
+![Image](https://github.com/user-attachments/assets/b23beb7a-1edc-4f80-b105-2f1c29e002ec)
+
 設置デバイスの外装
 
+![Image](https://github.com/user-attachments/assets/07b743d7-4121-45de-ba78-4709ceaa47eb)
+
+# ソフトウェア
